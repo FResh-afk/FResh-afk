@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello, I'm FResh 👋
+<a href="https://github.com/241550989"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FResh&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="FResh github stats" /></a> 
+<a href="https://github.com/241550989"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FResh&layout=compact&theme=vue&hide_border=true" /></a>
 
-<!--
-**241550989/241550989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Evasion Windows
+- 🌱 I’m currently learning Information Systems Auditing, Controls and Assurance
+- 📫 How to reach me: 
+- Telegram:+86 56 4906348
+- Instagram:yaoxi965
+- QQ:241550989
+- Linkedin:https://www.linkedin.cn/in/f-resh-97450a23a
